@@ -9,3 +9,14 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body {
+    background-color: #EDE3D3;
+}
+header {
+    color: #255792;
+    font-family: Google font, Nexa, Avenir, Roboto; 
+}
+footer {
+    color:#B63B3B;
+}
