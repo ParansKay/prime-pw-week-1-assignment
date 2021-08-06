@@ -11,12 +11,24 @@
 /* Change the font-family of your list */
 
 body {
-    background-color: #EDE3D3;
+    background-color: #6d6d6d;
 }
 header {
-    color: #255792;
+    color: #ffffff;
     font-family: Google font, Nexa, Avenir, Roboto; 
 }
+img {
+    height: 20em;
+    border: 1em solid #f0a431;
+}
+h1 {text-align: center;}
+p {font-style: italic;
+}
+ul {
+    font-family: Nexa, Helvetica, sans-serif;
+    
+}
 footer {
-    color:#B63B3B;
+    font-family: Google font, Nexa, Avenir, Roboto;
+    color:#EDE3D3;
 }
